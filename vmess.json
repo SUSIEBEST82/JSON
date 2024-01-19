@@ -1,6 +1,6 @@
 {
-  "version": "1.8",
-  "message": "เพิ่มเซิร์ฟเวอร์ดีแทคโนโปร\nAdd dtac nopro server\n dtac nopro ဆာဗာကို ထည့်ပါ။",
+  "version": "1.9",
+  "message": "เพิ่มเซิร์ฟเวอร์ดีแทคโนโปร\nAdd dtac nopro server\ndtac nopro ဆာဗာကို ထည့်ပါ။",
   "servers": [
     {
       "name": "TH-Ais-Play-01",
